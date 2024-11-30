@@ -13,8 +13,8 @@ While commercial spectrometers offer high precision, they're often expensive, bu
 * 1x M5StickC (https://docs.m5stack.com/en/core/m5stickc_plus) 
 * 1x AS7341 spectral sensor  (https://www.dfrobot.com/product-2132.html)
 * 1x Grove connector  (https://docs.m5stack.com/en/accessory/cable/grove_cable)
-* 2x M2 screws  
-* 2x M2 heat-set inserts  
+* 2x M2 screws  (https://eu.mouser.com/ProductDetail/Harwin/M80-2260000B?qs=DXv0QSHKF4wN5XPxPv8mDw%3D%3D&utm_source=octopart&utm_medium=aggregator&utm_campaign=855-M80-2260000B&utm_content=Harwin)
+* 2x M2 heat-set inserts  (https://www.mouser.com/ProductDetail/SI/IUTFB-M2?qs=DPoM0jnrROVcA4QFWOCRzw%3D%3D&srsltid=AfmBOopUU4Yk4SA0-Q8_GQOYWdSUdiCuBDWbHyQfNmQKO6hRtp1Q_SV6)
 * Black filament for 3D printing  
 * White reflector (Optional)
 
