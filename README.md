@@ -10,9 +10,9 @@ While commercial spectrometers offer high precision, they're often expensive, bu
 
 ## Bill of Materials (BOM)
 
-* 1x M5StickC  
-* 1x AS7341 spectral sensor  
-* 1x Grove connector  
+* 1x M5StickC (https://docs.m5stack.com/en/core/m5stickc_plus) 
+* 1x AS7341 spectral sensor  (https://www.dfrobot.com/product-2132.html)
+* 1x Grove connector  (https://docs.m5stack.com/en/accessory/cable/grove_cable)
 * 2x M2 screws  
 * 2x M2 heat-set inserts  
 * Black filament for 3D printing  
