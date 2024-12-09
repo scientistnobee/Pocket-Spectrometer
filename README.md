@@ -1,4 +1,6 @@
-# Pocket Spectrometer Project
+# Pocket Spectrometer
+
+![Test Image 1] (https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6542.jpg)
 
 ## The Vision
 
