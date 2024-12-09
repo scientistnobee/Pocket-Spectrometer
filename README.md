@@ -19,7 +19,7 @@ While commercial spectrometers offer high precision, they're often expensive, bu
 * 2x M2 heat-set inserts  (https://www.mouser.com/ProductDetail/SI/IUTFB-M2?qs=DPoM0jnrROVcA4QFWOCRzw%3D%3D&srsltid=AfmBOopUU4Yk4SA0-Q8_GQOYWdSUdiCuBDWbHyQfNmQKO6hRtp1Q_SV6)
 * Black filament for 3D printing  
 * White reflector (Optional)
-
+![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6296.jpg)
 ## 3D-Printed Components
 
 * Main body
@@ -76,8 +76,10 @@ The M5StickC is the perfect platform for this project because it packs incredibl
 4. Test the spectral sensor functionality  
 5. Disconnect the Grove connector  
 6. 3D print the main body and cap (no support required)  
-7. Install M2 heat-set inserts using the soldering iron  
-8. Mount the AMS sensor to the body using M2 screws  
+7. Install M2 heat-set inserts using the soldering iron  ![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6298.jpg)
+
+8. Mount the AMS sensor to the body using M2 screws  ![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6305.jpg)
+
 9. Press-fit the M5StickC into the body from the top  
 10. Connect the Grove connector from the bottom  
 11. Apply black tape to cover the AMS sensor and wires
