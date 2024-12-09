@@ -22,7 +22,7 @@ While commercial spectrometers offer high precision, they're often expensive, bu
 
 ## 3D-Printed Components
 
-* Main body  
+* Main body
 * Cap
 
 ## Hardware Tools Required
@@ -70,6 +70,7 @@ The M5StickC is the perfect platform for this project because it packs incredibl
 ### Hardware Assembly
 
 1. Cut the Grove connector to 15cm length and solder the wires  
+![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6300.jpg)
 2. Connect the Grove cable to the M5StickC  
 3. Flash the firmware using Thonny  
 4. Test the spectral sensor functionality  
