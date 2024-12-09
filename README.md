@@ -83,7 +83,7 @@ The M5StickC is the perfect platform for this project because it packs incredibl
 9. Press-fit the M5StickC into the body from the top  
 10. Connect the Grove connector from the bottom  
 11. Apply black tape to cover the AMS sensor and wires
-
+ ![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6305.jpg)
 ## Firmware Setup Instructions
 
 ### 1\. Prepare M5StickC
