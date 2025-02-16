@@ -1,8 +1,6 @@
 # Pocket Spectrometer
 
-
-
-<img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6542.jpg" alt="alt text" width="300">
+<img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6542.jpg" alt="alt text" width="500">
 
 
 ## The Vision
@@ -73,20 +71,25 @@ The M5StickC is the perfect platform for this project because it packs incredibl
 ### Hardware Assembly
 
 1. Cut the Grove connector to 15cm length and solder the wires  
-![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6300.jpg)
-2. Connect the Grove cable to the M5StickC  
-3. Flash the firmware using Thonny  
-4. Test the spectral sensor functionality  
-5. Disconnect the Grove connector  
-6. 3D print the main body and cap (no support required)  
-7. Install M2 heat-set inserts using the soldering iron  ![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6298.jpg)
 
-8. Mount the AMS sensor to the body using M2 screws  ![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6305.jpg)
+<img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6300.jpg" alt="alt text" width="500">
 
-9. Press-fit the M5StickC into the body from the top  
-10. Connect the Grove connector from the bottom  
-11. Apply black tape to cover the AMS sensor and wires
- ![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6542.jpg)
+
+3. Connect the Grove cable to the M5StickC  
+4. Flash the firmware using Thonny  
+5. Test the spectral sensor functionality  
+6. Disconnect the Grove connector  
+7. 3D print the main body and cap (no support required)  
+8. Install M2 heat-set inserts using the soldering iron  <img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6298.jpg" alt="alt text" width="500">
+
+9. Mount the AMS sensor to the body using M2 screws  
+    <img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6305.jpg" alt="alt text" width="500">
+
+10. Press-fit the M5StickC into the body from the top  
+11. Connect the Grove connector from the bottom  
+12. Apply black tape to cover the AMS sensor and wires
+
+<img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6542.jpg" alt="alt text" width="500">
 ## Firmware Setup Instructions
 
 ### 1\. Prepare M5StickC
