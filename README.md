@@ -82,7 +82,7 @@ The M5StickC is the perfect platform for this project because it packs incredibl
 6. Disconnect the Grove connector  
 7. 3D print the main body and cap (no support required)  
 8. Install M2 heat-set inserts using the soldering iron
-   <img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6298.jpg" alt="alt text" width="500">
+<img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6298.jpg" alt="alt text" width="500">
 
 9. Mount the AMS sensor to the body using M2 screws  
     <img src="https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6305.jpg" alt="alt text" width="500">
