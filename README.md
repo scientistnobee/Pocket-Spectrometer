@@ -1,6 +1,6 @@
 # Pocket Spectrometer
 
-![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6542.jpg)
+![alt text](https://github.com/scientistnobee/Pocket-Spectrometer/blob/main/Images/IMG_6542.jpg width="150" height="280")
 
 ## The Vision
 
